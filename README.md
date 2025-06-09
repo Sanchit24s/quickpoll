@@ -23,24 +23,6 @@ QuickPoll is a real-time polling web application that allows users to create sin
 
 ---
 
-## 🔧 Tech Stack
-
-### Frontend
-
-- React
-- Tailwind CSS (or Material UI)
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
